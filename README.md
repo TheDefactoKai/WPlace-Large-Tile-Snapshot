@@ -28,5 +28,12 @@ pip install requests pillow
 * `--keep-tiles` — Keep tiles after stitching.
 * `--skip-existing` — Skip downloading tiles that already exist in `--temp-dir`.
 
+## Example
+
+<p align="center">
+  <img src="./Example_NYC.png" alt="NYC tiles" width="800">
+</p>
+
+
 ### License
 MIT
